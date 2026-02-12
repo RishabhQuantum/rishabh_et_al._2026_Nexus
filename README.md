@@ -1,4 +1,4 @@
-# planaria_combined
+# Verification of quantum biological predictions for weak magnetic field effects on superoxide in planarians
 
 "Verification of quantum biological predictions for weak magnetic field effects on superoxide in planarians" by Rishabh, Jana Vučković, Hadi Zadeh-Haghighi, Wendy S. Beane, and Christoph Simon (2026).
 
