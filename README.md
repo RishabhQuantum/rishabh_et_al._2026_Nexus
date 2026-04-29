@@ -7,3 +7,4 @@ This repository contains:
 
 2. Sample python code for parameter search described in Section 2.3. Python 3 was used. Search was conducted on Google Colab platform. 
 
+Cite the code: [![DOI](https://zenodo.org/badge/993499481.svg)](https://doi.org/10.5281/zenodo.19897714)
